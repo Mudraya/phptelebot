@@ -1,0 +1,186 @@
+[2019-08-13 12:19:51] bot_log.DEBUG: Verbose HTTP Request output:
+*   Trying 149.154.167.220...
+* TCP_NODELAY set
+* Connected to api.telegram.org (149.154.167.220) port 443 (#0)
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: w:/modules/php/PHP-7.2-x64/cacert.pem
+  CApath: none
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256
+* ALPN, server accepted to use http/1.1
+* Server certificate:
+*  subject: OU=Domain Control Validated; CN=api.telegram.org
+*  start date: May  4 14:42:31 2018 GMT
+*  expire date: May 23 16:17:38 2020 GMT
+*  subjectAltName: host "api.telegram.org" matched cert's "api.telegram.org"
+*  issuer: C=US; ST=Arizona; L=Scottsdale; O=GoDaddy.com, Inc.; OU=http://certs.godaddy.com/repository/; CN=Go Daddy Secure Certificate Authority - G2
+*  SSL certificate verify ok.
+> POST /bot904589468:AAHR-BW2A833I9THKE_IbXtDst6JKWTlth4/getMe HTTP/1.1
+Host: api.telegram.org
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.2.0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 3
+
+* upload completely sent off: 3 out of 3 bytes
+< HTTP/1.1 200 OK
+< Server: nginx/1.16.0
+< Date: Tue, 13 Aug 2019 09:19:49 GMT
+< Content-Type: application/json
+< Content-Length: 98
+< Connection: keep-alive
+< Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+< Access-Control-Allow-Origin: *
+< Access-Control-Allow-Methods: GET, POST, OPTIONS
+< Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+< 
+* Connection #0 to host api.telegram.org left intact
+
+ [] []
+[2019-08-13 12:19:51] bot_log.DEBUG: Verbose HTTP Request output:
+* Found bundle for host api.telegram.org: 0x27b2dd18dd0 [can pipeline]
+* Re-using existing connection! (#0) with host api.telegram.org
+* Connected to api.telegram.org (149.154.167.220) port 443 (#0)
+> POST /bot904589468:AAHR-BW2A833I9THKE_IbXtDst6JKWTlth4/sendMessage HTTP/1.1
+Host: api.telegram.org
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.2.0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+
+* upload completely sent off: 75 out of 75 bytes
+< HTTP/1.1 403 Forbidden
+< Server: nginx/1.16.0
+< Date: Tue, 13 Aug 2019 09:19:50 GMT
+< Content-Type: application/json
+< Content-Length: 88
+< Connection: keep-alive
+< Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+< Access-Control-Allow-Origin: *
+< Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+< 
+* Connection #0 to host api.telegram.org left intact
+
+ [] []
+[2019-08-13 12:20:05] bot_log.DEBUG: Verbose HTTP Request output:
+*   Trying 149.154.167.220...
+* TCP_NODELAY set
+* Connected to api.telegram.org (149.154.167.220) port 443 (#0)
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: w:/modules/php/PHP-7.2-x64/cacert.pem
+  CApath: none
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256
+* ALPN, server accepted to use http/1.1
+* Server certificate:
+*  subject: OU=Domain Control Validated; CN=api.telegram.org
+*  start date: May  4 14:42:31 2018 GMT
+*  expire date: May 23 16:17:38 2020 GMT
+*  subjectAltName: host "api.telegram.org" matched cert's "api.telegram.org"
+*  issuer: C=US; ST=Arizona; L=Scottsdale; O=GoDaddy.com, Inc.; OU=http://certs.godaddy.com/repository/; CN=Go Daddy Secure Certificate Authority - G2
+*  SSL certificate verify ok.
+> POST /bot904589468:AAHR-BW2A833I9THKE_IbXtDst6JKWTlth4/getMe HTTP/1.1
+Host: api.telegram.org
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.2.0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 3
+
+* upload completely sent off: 3 out of 3 bytes
+< HTTP/1.1 200 OK
+< Server: nginx/1.16.0
+< Date: Tue, 13 Aug 2019 09:20:04 GMT
+< Content-Type: application/json
+< Content-Length: 98
+< Connection: keep-alive
+< Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+< Access-Control-Allow-Origin: *
+< Access-Control-Allow-Methods: GET, POST, OPTIONS
+< Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+< 
+* Connection #0 to host api.telegram.org left intact
+
+ [] []
+[2019-08-13 12:20:06] bot_log.DEBUG: Verbose HTTP Request output:
+* Found bundle for host api.telegram.org: 0x27b2dd198d0 [can pipeline]
+* Re-using existing connection! (#0) with host api.telegram.org
+* Connected to api.telegram.org (149.154.167.220) port 443 (#0)
+> POST /bot904589468:AAHR-BW2A833I9THKE_IbXtDst6JKWTlth4/sendMessage HTTP/1.1
+Host: api.telegram.org
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.2.0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+
+* upload completely sent off: 75 out of 75 bytes
+< HTTP/1.1 403 Forbidden
+< Server: nginx/1.16.0
+< Date: Tue, 13 Aug 2019 09:20:04 GMT
+< Content-Type: application/json
+< Content-Length: 88
+< Connection: keep-alive
+< Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+< Access-Control-Allow-Origin: *
+< Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+< 
+* Connection #0 to host api.telegram.org left intact
+
+ [] []
+[2019-08-13 12:20:09] bot_log.DEBUG: Verbose HTTP Request output:
+*   Trying 149.154.167.220...
+* TCP_NODELAY set
+* Connected to api.telegram.org (149.154.167.220) port 443 (#0)
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: w:/modules/php/PHP-7.2-x64/cacert.pem
+  CApath: none
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256
+* ALPN, server accepted to use http/1.1
+* Server certificate:
+*  subject: OU=Domain Control Validated; CN=api.telegram.org
+*  start date: May  4 14:42:31 2018 GMT
+*  expire date: May 23 16:17:38 2020 GMT
+*  subjectAltName: host "api.telegram.org" matched cert's "api.telegram.org"
+*  issuer: C=US; ST=Arizona; L=Scottsdale; O=GoDaddy.com, Inc.; OU=http://certs.godaddy.com/repository/; CN=Go Daddy Secure Certificate Authority - G2
+*  SSL certificate verify ok.
+> POST /bot904589468:AAHR-BW2A833I9THKE_IbXtDst6JKWTlth4/getMe HTTP/1.1
+Host: api.telegram.org
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.2.0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 3
+
+* upload completely sent off: 3 out of 3 bytes
+< HTTP/1.1 200 OK
+< Server: nginx/1.16.0
+< Date: Tue, 13 Aug 2019 09:20:08 GMT
+< Content-Type: application/json
+< Content-Length: 98
+< Connection: keep-alive
+< Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+< Access-Control-Allow-Origin: *
+< Access-Control-Allow-Methods: GET, POST, OPTIONS
+< Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+< 
+* Connection #0 to host api.telegram.org left intact
+
+ [] []
+[2019-08-13 12:20:09] bot_log.DEBUG: Verbose HTTP Request output:
+* Found bundle for host api.telegram.org: 0x27b2dd16710 [can pipeline]
+* Re-using existing connection! (#0) with host api.telegram.org
+* Connected to api.telegram.org (149.154.167.220) port 443 (#0)
+> POST /bot904589468:AAHR-BW2A833I9THKE_IbXtDst6JKWTlth4/sendMessage HTTP/1.1
+Host: api.telegram.org
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.2.0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+
+* upload completely sent off: 75 out of 75 bytes
+< HTTP/1.1 403 Forbidden
+< Server: nginx/1.16.0
+< Date: Tue, 13 Aug 2019 09:20:08 GMT
+< Content-Type: application/json
+< Content-Length: 88
+< Connection: keep-alive
+< Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+< Access-Control-Allow-Origin: *
+< Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+< 
+* Connection #0 to host api.telegram.org left intact
+
+ [] []

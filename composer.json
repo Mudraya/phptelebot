@@ -1,0 +1,13 @@
+{
+    "name": "user/php_telebot",
+    "authors": [
+        {
+            "name": "Anastasiya Mudraya",
+            "email": "mudraya.od@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5",
+        "longman/telegram-bot": "*"
+    }
+}

@@ -1,0 +1,140 @@
+[12-Aug-2019 19:03:37 Europe/Moscow] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in W:\domains\phptelebot\vendor\longman\telegram-bot\src\Entities\Entity.php on line 40
+[12-Aug-2019 19:03:37 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function getText() on null in W:\domains\phptelebot\index.php:31
+Stack trace:
+#0 {main}
+  thrown in W:\domains\phptelebot\index.php on line 31
+[12-Aug-2019 19:05:04 Europe/Moscow] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in W:\domains\phptelebot\vendor\longman\telegram-bot\src\Entities\Entity.php on line 40
+[12-Aug-2019 19:05:04 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function getText() on null in W:\domains\phptelebot\index.php:31
+Stack trace:
+#0 {main}
+  thrown in W:\domains\phptelebot\index.php on line 31
+[12-Aug-2019 19:05:11 Europe/Moscow] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in W:\domains\phptelebot\vendor\longman\telegram-bot\src\Entities\Entity.php on line 40
+[12-Aug-2019 19:05:11 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function getText() on null in W:\domains\phptelebot\index.php:31
+Stack trace:
+#0 {main}
+  thrown in W:\domains\phptelebot\index.php on line 31
+[13-Aug-2019 12:07:31 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initErrorLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 123
+[13-Aug-2019 12:07:31 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:07:31 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initDebugLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 155
+[13-Aug-2019 12:07:31 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:07:31 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initUpdateLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 187
+[13-Aug-2019 12:07:32 Europe/Moscow] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in W:\domains\phptelebot\vendor\longman\telegram-bot\src\Entities\Entity.php on line 40
+[13-Aug-2019 12:07:32 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function getText() on null in W:\domains\phptelebot\index.php:52
+Stack trace:
+#0 {main}
+  thrown in W:\domains\phptelebot\index.php on line 52
+[13-Aug-2019 12:09:23 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initErrorLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 123
+[13-Aug-2019 12:09:23 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:09:23 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initDebugLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 155
+[13-Aug-2019 12:09:23 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:09:23 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initUpdateLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 187
+[13-Aug-2019 12:09:23 Europe/Moscow] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in W:\domains\phptelebot\vendor\longman\telegram-bot\src\Entities\Entity.php on line 40
+[13-Aug-2019 12:09:23 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function getText() on null in W:\domains\phptelebot\index.php:60
+Stack trace:
+#0 {main}
+  thrown in W:\domains\phptelebot\index.php on line 60
+[13-Aug-2019 12:09:54 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initErrorLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 123
+[13-Aug-2019 12:09:54 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:09:54 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initDebugLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 155
+[13-Aug-2019 12:09:54 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:09:54 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initUpdateLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 187
+[13-Aug-2019 12:09:54 Europe/Moscow] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in W:\domains\phptelebot\vendor\longman\telegram-bot\src\Entities\Entity.php on line 40
+[13-Aug-2019 12:09:54 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function getText() on null in W:\domains\phptelebot\index.php:60
+Stack trace:
+#0 {main}
+  thrown in W:\domains\phptelebot\index.php on line 60
+[13-Aug-2019 12:09:55 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initErrorLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 123
+[13-Aug-2019 12:09:55 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:09:55 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initDebugLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 155
+[13-Aug-2019 12:09:55 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:09:55 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initUpdateLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 187
+[13-Aug-2019 12:09:55 Europe/Moscow] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in W:\domains\phptelebot\vendor\longman\telegram-bot\src\Entities\Entity.php on line 40
+[13-Aug-2019 12:09:55 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function getText() on null in W:\domains\phptelebot\index.php:60
+Stack trace:
+#0 {main}
+  thrown in W:\domains\phptelebot\index.php on line 60
+[13-Aug-2019 12:09:56 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initErrorLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 123
+[13-Aug-2019 12:09:56 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:09:56 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initDebugLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 155
+[13-Aug-2019 12:09:56 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:09:56 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initUpdateLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 187
+[13-Aug-2019 12:09:56 Europe/Moscow] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in W:\domains\phptelebot\vendor\longman\telegram-bot\src\Entities\Entity.php on line 40
+[13-Aug-2019 12:09:56 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function getText() on null in W:\domains\phptelebot\index.php:60
+Stack trace:
+#0 {main}
+  thrown in W:\domains\phptelebot\index.php on line 60
+[13-Aug-2019 12:10:15 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initErrorLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 123
+[13-Aug-2019 12:10:15 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:10:15 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initDebugLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 155
+[13-Aug-2019 12:10:15 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:10:15 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initUpdateLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 187
+[13-Aug-2019 12:10:15 Europe/Moscow] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in W:\domains\phptelebot\vendor\longman\telegram-bot\src\Entities\Entity.php on line 40
+[13-Aug-2019 12:10:15 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function getText() on null in W:\domains\phptelebot\index.php:60
+Stack trace:
+#0 {main}
+  thrown in W:\domains\phptelebot\index.php on line 60
+[13-Aug-2019 12:10:16 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initErrorLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 123
+[13-Aug-2019 12:10:16 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:10:16 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initDebugLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 155
+[13-Aug-2019 12:10:16 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:10:16 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initUpdateLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 187
+[13-Aug-2019 12:10:16 Europe/Moscow] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in W:\domains\phptelebot\vendor\longman\telegram-bot\src\Entities\Entity.php on line 40
+[13-Aug-2019 12:10:16 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function getText() on null in W:\domains\phptelebot\index.php:60
+Stack trace:
+#0 {main}
+  thrown in W:\domains\phptelebot\index.php on line 60
+[13-Aug-2019 12:16:35 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initErrorLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 123
+[13-Aug-2019 12:16:35 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:16:35 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initDebugLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 155
+[13-Aug-2019 12:16:35 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:16:35 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initUpdateLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 187
+[13-Aug-2019 12:16:35 Europe/Moscow] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in W:\domains\phptelebot\vendor\longman\telegram-bot\src\Entities\Entity.php on line 40
+[13-Aug-2019 12:16:35 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function getText() on null in W:\domains\phptelebot\index.php:59
+Stack trace:
+#0 {main}
+  thrown in W:\domains\phptelebot\index.php on line 59
+[13-Aug-2019 12:16:36 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initErrorLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 123
+[13-Aug-2019 12:16:36 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:16:36 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initDebugLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 155
+[13-Aug-2019 12:16:36 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:16:36 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initUpdateLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 187
+[13-Aug-2019 12:16:36 Europe/Moscow] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in W:\domains\phptelebot\vendor\longman\telegram-bot\src\Entities\Entity.php on line 40
+[13-Aug-2019 12:16:36 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function getText() on null in W:\domains\phptelebot\index.php:59
+Stack trace:
+#0 {main}
+  thrown in W:\domains\phptelebot\index.php on line 59
+[13-Aug-2019 12:17:22 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initErrorLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 123
+[13-Aug-2019 12:17:22 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:17:22 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initDebugLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 155
+[13-Aug-2019 12:17:22 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:17:22 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initUpdateLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 187
+[13-Aug-2019 12:17:22 Europe/Moscow] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in W:\domains\phptelebot\vendor\longman\telegram-bot\src\Entities\Entity.php on line 40
+[13-Aug-2019 12:17:22 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function getText() on null in W:\domains\phptelebot\index.php:58
+Stack trace:
+#0 {main}
+  thrown in W:\domains\phptelebot\index.php on line 58
+[13-Aug-2019 12:17:24 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initErrorLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 123
+[13-Aug-2019 12:17:24 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:17:24 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initDebugLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 155
+[13-Aug-2019 12:17:24 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:17:24 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initUpdateLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 187
+[13-Aug-2019 12:17:24 Europe/Moscow] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in W:\domains\phptelebot\vendor\longman\telegram-bot\src\Entities\Entity.php on line 40
+[13-Aug-2019 12:17:24 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function getText() on null in W:\domains\phptelebot\index.php:58
+Stack trace:
+#0 {main}
+  thrown in W:\domains\phptelebot\index.php on line 58
+[13-Aug-2019 12:19:50 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initErrorLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 123
+[13-Aug-2019 12:19:50 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:19:50 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initDebugLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 155
+[13-Aug-2019 12:19:50 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:19:50 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initUpdateLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 187
+[13-Aug-2019 12:20:05 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initErrorLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 123
+[13-Aug-2019 12:20:05 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:20:05 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initDebugLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 155
+[13-Aug-2019 12:20:05 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:20:05 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initUpdateLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 187
+[13-Aug-2019 12:20:09 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initErrorLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 123
+[13-Aug-2019 12:20:09 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:20:09 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initDebugLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 155
+[13-Aug-2019 12:20:09 Europe/Moscow] PHP Deprecated:  A PSR-3 compatible LoggerInterface object must be provided. Initialise with a preconfigured logger instance. in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 93
+[13-Aug-2019 12:20:09 Europe/Moscow] PHP Deprecated:  Longman\TelegramBot\TelegramLog::initUpdateLog is deprecated and will be removed soon. Initialise with a preconfigured logger instance instead using "TelegramLog::initialize($logger)". in W:\domains\phptelebot\vendor\longman\telegram-bot\src\TelegramLog.php on line 187
