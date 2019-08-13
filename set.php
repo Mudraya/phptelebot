@@ -4,7 +4,7 @@ require __DIR__ . '/vendor/autoload.php';
 
 $bot_api_key  = '904589468:AAHR-BW2A833I9THKE_IbXtDst6JKWTlth4';
 $bot_username = 'aglaglbot';
-$hook_url     = 'https://a7526cf5.ngrok.io';
+$hook_url     = 'https://intense-fjord-23579.herokuapp.com/';
 
 try {
     // Create Telegram API object
