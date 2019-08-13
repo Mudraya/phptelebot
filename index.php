@@ -45,23 +45,19 @@ try {
 //
 ////        // handle telegram webhook request
 //        $telegram->handle();
-    $commands = [
-        '/start',
-    ];
-    $telegram->addCommandsPaths($commands_paths);
-    $telegram->enableLimiter();
-    $telegram->runCommands($commands);
-//    $post = json_decode(Request::getInput());
-//    $Update = new Update($post, $bot_username);
-//
-//    $sText = $Update->getMessage()->getText();
-//    if (strpos($sText, '@'.$yourUsername) !== false || (isset($post['reply_to_message']) && $post['reply_to_message']['from']['username'] == $yourUsername)) {
-//        $data = [];
-//        $data['chat_id'] = $chat_id;
-//        $data['text'] = 'Neue Nachricht in: '.$oMessage->getChat()->getTitle()."\n\nVon: @".$oMessage->getFrom()->getUsername()." (".$oMessage->getFrom()->getFirstName().")\nNachricht:\n".$sText;
-//        return Request::sendMessage($data);
-//    }
-//    return Request::emptyResponse();
+
+
+    $post = json_decode(Request::getInput());
+    $Update = new Update($post, $bot_username);
+
+    $sText = $Update->getMessage()->getText();
+    if (strpos($sText, '@'.$yourUsername) !== false || (isset($post['reply_to_message']) && $post['reply_to_message']['from']['username'] == $yourUsername)) {
+        $data = [];
+        $data['chat_id'] = $chat_id;
+        $data['text'] = 'Neue Nachricht in: '.$oMessage->getChat()->getTitle()."\n\nVon: @".$oMessage->getFrom()->getUsername()." (".$oMessage->getFrom()->getFirstName().")\nNachricht:\n".$sText;
+        return Request::sendMessage($data);
+    }
+    return Request::emptyResponse();
 } catch (Longman\TelegramBot\Exception\TelegramException $e) {
     // Silence is golden!
 //    echo $e;
